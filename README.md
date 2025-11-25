@@ -18,11 +18,13 @@ This project presents an enhanced cross-modal video summarization framework that
 - **Additional Enhancement Modules**: Event segmentation, summary refinement, ASR denoising, and adaptive feature extraction modules
 - **Improved Performance**: Consistent gains across multiple evaluation metrics, particularly in semantic coherence and cross-modal alignment
 
+> **Note:** Due to GitHub's file size limitations, some code files may not be fully uploaded to this repository.
+
 ## What is Cross-modal Video Summarization?
 
 Cross-modal video summarization extends traditional single-modal approaches by creating summaries that contain both visual and textual elements with semantic coherence. Unlike methods that treat visual or textual summaries independently, our framework learns joint representations that capture correlations between video content and text descriptions, producing more meaningful and readable summaries.
 
-![Framework Architecture](resources/v2x-sum.png)
+![Framework Architecture](framework.png)
 
 ## Contents
 - [Key Innovations](#key-innovations)
